@@ -1,0 +1,61 @@
+.class2{
+     /* background-color: aqua; */
+        width: 50%;
+        float: left;
+        height: 400px;
+        /*width: 200px;*/
+        
+}
+.class1{
+        padding: 20px;
+        margin: 0%;
+        height: 400px;
+        
+}
+.class3{
+        /* background-color: aqua; */
+           width: 50%;
+           float: left;
+           height: 500px;
+           padding-top: 0px;
+           color: black;
+   }
+   .launch-time{
+        display: flex;
+        float: left;
+   }
+   #time{
+        padding: 20px;
+        font-size: 30px;
+   }
+   .body{
+     margin: 0px;
+   }
+   #days p{
+        font-size: 60px;
+   }
+   #hours p{
+        font-size: 60px;
+   }
+  
+   #seconds p{
+        font-size: 60px;
+   }
+  
+   #minutes p{
+        font-size: 60px;
+   }
+   .topnav{
+     width: 100%;
+     background-color: azure;
+    overflow: hidden;
+     color: black;
+     padding: 10px;
+     display: block;
+margin: 0%;
+   }
+   .topnav a{
+      float:left;
+     padding: 10px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   }
